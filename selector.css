@@ -1,0 +1,62 @@
+#header {
+  width: 800px;
+  margin: 0 auto;
+  background: red;
+}
+
+#wrap {
+  width: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+#aside {
+  width: 200px;
+  float: left;
+  background: blue;
+}
+
+#content {
+  width: 600px;
+  float: left;
+  background: green;
+}
+
+#helloBox {
+  border: solid red 3px;
+}
+
+h4 {
+  margin: 0;
+  float: none;
+}
+
+.item {
+  color: red;
+}
+
+.header {
+  background-color: blue;
+}
+ul .select{
+  color:red;
+}
+
+li.select {
+  color: blue;
+}
+div ul li:nth-child(3){
+  color:red;
+}
+input[type=text]{
+  background-color: red;
+}
+input[type=password]{
+  background-color: blue;
+}
+input[type=date]{
+  color:magenta;
+}
+input[type=button]{
+  background-color: #90b5db;
+}

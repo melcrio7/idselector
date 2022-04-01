@@ -1,0 +1,27 @@
+#header{
+  width: 800px;
+  margin:0 auto;
+  background:red;
+}
+#wrap{
+  width:800px;
+  margin: 0 auto;
+  overflow:hidden;
+}
+#aside{
+  width:200px;
+  float:left;
+  background:blue;
+}
+#content{
+  width:600px;
+  float:left;
+  background:green;
+}
+#helloBox{
+  border: solid red 3px;
+}
+h4{
+  margin:0;
+  float:none;
+}
